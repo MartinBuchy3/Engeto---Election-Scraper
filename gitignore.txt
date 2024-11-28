@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Output files
+*.csv
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+.DS_Store
